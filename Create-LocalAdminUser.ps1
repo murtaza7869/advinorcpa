@@ -17,7 +17,7 @@
 #  CONFIGURATION — Edit these values before deploying
 # ============================================================
 
-$Username    = "Admin"           # Local username to create
+$Username    = "mkAdmin"           # Local username to create
 $Password    = "Ch@ngeMe123!"        # Password (meet complexity requirements)
 $FullName    = "LocalAdmin" # Display name (optional)
 $Description = "Created via RMM"     # Account description (optional)
