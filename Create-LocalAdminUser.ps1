@@ -17,9 +17,9 @@
 #  CONFIGURATION — Edit these values before deploying
 # ============================================================
 
-$Username    = "AdminUser"           # Local username to create
+$Username    = "Admin"           # Local username to create
 $Password    = "Ch@ngeMe123!"        # Password (meet complexity requirements)
-$FullName    = "Local Admin Account" # Display name (optional)
+$FullName    = "LocalAdmin" # Display name (optional)
 $Description = "Created via RMM"     # Account description (optional)
 $NeverExpire = $true                 # $true = password never expires
 
